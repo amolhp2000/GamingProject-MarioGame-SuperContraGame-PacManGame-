@@ -1,0 +1,2 @@
+# GamingProject-MarioGame-SuperContraGame-PacManGame-
+I have created a project in java using spring framework, with tight coupling and loose coupling. -> Iteration :1   Tightly Couple java code .Which have GameRunner Class  and Gaming Classes like MarioGame, SuperContraGame, PacManGame  And Iteration :2 :    Loose Coupling Interface. Which have GameRunner Class &amp; GamingConsol Interface &amp; Game Classes.
